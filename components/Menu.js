@@ -12,9 +12,6 @@ let menuItems = [
 ////// My CODE //////
 const header = document.querySelector('.header') // mount point
 
-
-
-
 function menuMaker(items){
   let menu = document.createElement('div');
   let list = document.createElement('ul');
